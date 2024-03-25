@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "text": "Learn JavaScript",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "text": "Learn React",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "text": "Learn Something",
+    "complted": false
+  },
+  {
+    "id": 4,
+    "text": "Learn Nothing",
+    "complted": false
+  },
+  {
+    "id": 5,
+    "text": "Learn Nothing",
+    "complted": false
+  },
+  {
+    "id": 6,
+    "text": "test",
+    "completed": false
+  },
+  {
+    "id": 7,
+    "text": "test",
+    "completed": false
+  },
+  {
+    "id": 8,
+    "text": "test",
+    "completed": false
+  }
+]
